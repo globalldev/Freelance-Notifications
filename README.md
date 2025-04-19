@@ -1,3 +1,6 @@
+📄 This README is available in:
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md)
+
 # 🚀 Freelance Notifications — Telegram Bot for Freelancers
 
 **Freelance Notifications** is a smart Telegram bot that monitors freelance job listings across top platforms in real time and instantly sends relevant projects to users.
